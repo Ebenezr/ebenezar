@@ -36,7 +36,7 @@ function AboutMe() {
             I like to code things from scratch, and enjoy bringing ideas to life
             in the browser.
           </p>
-          <h4 className='card-h4'>Languages I speak:</h4>
+          <h4 className='card-h4'>My stacks:</h4>
           <small>HTML, CSS, SASS, Javascript, TypeScript</small>
           <h4 className='card-h4'>Frameworks</h4>
           <small>React.js</small>
@@ -51,7 +51,7 @@ function AboutMe() {
             I like to code things from scratch, and enjoy bringing ideas to life
             in the browser.
           </p>
-          <h4 className='card-h4'>Languages I speak:</h4>
+          <h4 className='card-h4'>My stack:</h4>
           <small>Ruby, Javascript, Typescript, C#, Sql</small>
           <h4 className='card-h4'>Frameworks</h4>
           <small>Ruby on Rails</small>
